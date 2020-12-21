@@ -45,7 +45,7 @@ export const Wrapper = styled.div`
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
     filter: drop-shadow(2px 2px #0085a3);
-    font-size: 100px;
+    font-size: 80px;
     text-align: center;
     margin: 20px;
   }
