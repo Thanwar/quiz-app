@@ -97,6 +97,12 @@ function App() {
           </button>
         ) : null}
         </Wrapper>
+
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
       </div>
       
     </div>

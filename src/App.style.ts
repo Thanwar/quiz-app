@@ -27,11 +27,11 @@ export const Wrapper = styled.div`
   align-items: center;
   > p {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1rem;
   }
   .score {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 0;
   }
   h1 {
@@ -45,7 +45,7 @@ export const Wrapper = styled.div`
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
     filter: drop-shadow(2px 2px #0085a3);
-    font-size: 80px;
+    font-size: 50px;
     text-align: center;
     margin: 20px;
   }
